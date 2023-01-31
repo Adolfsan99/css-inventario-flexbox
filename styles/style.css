@@ -1,0 +1,39 @@
+body {
+font-family: sans-serif;
+background-color:rgb(216, 216, 216);
+}
+h1{
+margin: 10px;
+}
+nav {
+display: flex;
+flex-wrap: wrap;
+}
+article{
+background-color: rgb(255, 255, 255);
+width: 300px;
+height: 300px;
+padding: 0px;
+margin: 20px 20px 40px 20px;
+border-radius: 2%;
+}
+.detalles{
+background-color: rgb(243, 243, 243);
+padding: 10px;
+margin: 0px;
+}
+.envio{
+font-weight: 550;
+color: rgb(16, 197, 0);
+}
+.descuento{
+color: rgb(16, 197, 0);
+}
+p{
+margin: 8px;
+}
+.footer{
+margin: 20px 20px auto;
+padding: 30px;
+background-color: aquamarine;   
+}
